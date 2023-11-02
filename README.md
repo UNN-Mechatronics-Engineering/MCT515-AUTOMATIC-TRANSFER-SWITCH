@@ -1,4 +1,8 @@
 # MCT515-AUTOMATIC-TRANSFER-SWITCH
+
+<img src="./ats_circuit.jpg">
+
+
 Automatic on/off generator with automatic changeover project.
 
 The Arduino code:
